@@ -1,0 +1,44 @@
+html {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: rgb(255,208,208);
+  padding: 5%;
+  margin: 10%;
+  border: thin solid black;
+}
+
+canvas {
+  display: block;
+}
+
+h1 {
+  font-family: arial;
+}
+
+h1:hover {
+  font-family:futura;
+}
+
+h2 {
+  font-family: futura;
+  font-size: 15px;
+}
+
+p {
+  font-family: arial;
+}
+
+div {
+  border: thin solid black;
+}
+
+a {
+  color: red;
+}
+
+a:hover {
+  color: orange;
+}
