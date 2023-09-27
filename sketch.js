@@ -5,7 +5,7 @@ function setup() {
   
   let canvas = createCanvas(canvasDiv.offsetWidth, windowHeight/2);
   canvas.parent("mySketch");
-  background(200, 200, 100, 20);
+  background(200, 200, 100);
 }
 
 function draw() {
